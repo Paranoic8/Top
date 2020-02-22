@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pauloski</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lista_artistas">ListaArtistas</string>
+    <string name="artista.hint.nombre">Nombre</string>
+    <string name="artista.hint.rango">Rango</string>
+</resources>
