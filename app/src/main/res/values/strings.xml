@@ -4,4 +4,11 @@
     <string name="title_activity_lista_artistas">ListaArtistas</string>
     <string name="artista.hint.nombre">Nombre</string>
     <string name="artista.hint.rango">Rango</string>
+    <string name="title_activity_agregar_artista">AgregarArtistaActivity</string>
+    <string name="hint.nombre">Nombre</string>
+    <string name="hint.apellidos">Apellidos</string>
+    <string name="hint.lugnac">Fecha Nacimiento</string>
+    <string name="hint.estatura">Estatura</string>
+    <string name="hint.fechanac">Fecha Nacimiento</string>
+    <string name="hint.notas">Notas</string>
 </resources>
